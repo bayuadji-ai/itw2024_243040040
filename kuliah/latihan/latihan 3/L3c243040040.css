@@ -4,29 +4,24 @@ body {
   text-align: justify;
 }
 h1 {
-  font-family: comic sans ms;
+  font-family: "comic sans ms";
   font-size: 60px;
   color: darkblue;
-  text-align: center;
 }
 h4 {
   text-align: right;
   font-style: italic;
 }
-#sandhika {
+p {
+  text-align: justify;
+}
+#Bayu {
   color: white;
 }
 #paragraf1 {
-  color: yellow;
+  color: salmon;
   text-align: center;
 }
 #paragraf2 {
   text-align: right;
-}
-a:hover {
-  color: red !important;
-}
-.tautan:hover {
-  background-color: blue;
-  color: white !important;
 }
