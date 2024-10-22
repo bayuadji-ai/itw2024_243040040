@@ -5,10 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         
+    
+        
+        
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open T1243040040.html",
+            "name": "Open L2b243040040.html",
             "file": "c:\\Users\\HP\\Documents\\itw2024_243040040\\kuliah\\latihan\\latihan1\\T1243040040.html"
         }
     ]
