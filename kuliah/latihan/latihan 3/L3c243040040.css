@@ -1,0 +1,32 @@
+body {
+  background-color: aqua;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: justify;
+}
+h1 {
+  font-family: comic sans ms;
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+}
+h4 {
+  text-align: right;
+  font-style: italic;
+}
+#sandhika {
+  color: white;
+}
+#paragraf1 {
+  color: yellow;
+  text-align: center;
+}
+#paragraf2 {
+  text-align: right;
+}
+a:hover {
+  color: red !important;
+}
+.tautan:hover {
+  background-color: blue;
+  color: white !important;
+}
