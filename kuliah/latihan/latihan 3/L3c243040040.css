@@ -25,3 +25,13 @@ p {
 #paragraf2 {
   text-align: right;
 }
+a:hover {
+  color: red !important;
+}
+.tautan:hover {
+  color: white !important;
+  background-color: blue;
+}
+h3 {
+  text-align: center;
+}
